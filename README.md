@@ -36,7 +36,8 @@ https://github.com/takagotch/analytics
 ###### google tag manager
 https://tagmanager.google.com/#/container/accounts/6002348842/containers/33574364/workspaces/1
 
-
+###### google optimize
+https://optimize.google.com/optimize/home/#/accounts/4703925098/containers/14216994
 
 
 
