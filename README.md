@@ -55,8 +55,9 @@ https://github.com/GoogleChrome/lighthouse
 #### google admin
 https://admin.google.com/u/2/ac/home
 
+#### google workspace
+https://workspace.google.com/
 
-###### 
 
 
 ###### 翻訳
