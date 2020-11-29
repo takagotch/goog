@@ -66,6 +66,8 @@ https://translate.google.co.jp/?hl=ja&tab=rT&authuser=0#view=home&op=translate&s
 
 ###### google 拡張機能
 https://web.kamihq.com/web/viewer.html?browser_action=true
+chrome://extensions/
+
 
 
 
